@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Among Us Editor .NET", "Among Us Editor .NET\Among Us Editor .NET.vbproj", "{EEE0CE54-38C5-44D1-8622-43E363F46DF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE0CE54-38C5-44D1-8622-43E363F46DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE0CE54-38C5-44D1-8622-43E363F46DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE0CE54-38C5-44D1-8622-43E363F46DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE0CE54-38C5-44D1-8622-43E363F46DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6167BFCD-409C-47B2-A0DC-B563E29F6576}
+	EndGlobalSection
+EndGlobal

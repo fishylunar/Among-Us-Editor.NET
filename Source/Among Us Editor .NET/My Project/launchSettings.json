@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Among Us Editor .NET": {
+      "commandName": "Project"
+    },
+    "newProfile1": {
+      "commandName": "Executable"
+    }
+  }
+}
