@@ -35,11 +35,11 @@ All you need is a computer running Windows, and the Among Us game :3
 Simply clone or download this project, and run the file 
 `Among-Us-Editor.NET\Builds\net5.0-windows\Among Us Editor .NET.exe`
 
-##### How to use it?????
+#### How to use it?????
 
 Use the GUI to change the values, as far as i knmow you cant really screw things up, but i still dont take any responsibilites if you screw up lol
 
-##### Im a nerd lol
+#### Im a nerd lol
 If you know what you're doing, then you can use the RAW editor, just be careful not to screw everything up.
 
 ## Information about Among Us config file ##  
