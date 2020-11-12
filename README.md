@@ -26,9 +26,8 @@ A simple save editor for Among Us on Windows
 + Backup button to revert to a hard-coded config if you mess something up.
 
 ### Screenshots
-
-![uwu](https://raw.githubusercontent.com/FiskDk/Among-Us-Editor.NET/main/assets/editor1.png?token=AFRI2NPZHF4ZY42CFM33PMS7VVKPW)
-![owo](https://raw.githubusercontent.com/FiskDk/Among-Us-Editor.NET/main/assets/editor2.png?token=AFRI2NJUTDC5K53EGH2WUGK7VVKWY)
+[Editor screenshot 1](assets/editor1.png)
+[Editor screenshot 2](assets/editor2.png)
 
 ### Installation and usage
 
