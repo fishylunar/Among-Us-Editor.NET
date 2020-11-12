@@ -26,8 +26,8 @@ A simple save editor for Among Us on Windows
 + Backup button to revert to a hard-coded config if you mess something up.
 
 ### Screenshots
-![Editor screenshot 1](assets/editor1.png)
-![Editor screenshot 2](assets/editor2.png)
+![Editor screenshot 1](Github-Assets/editor1.png)
+![Editor screenshot 2](Github-Assets/editor2.png)
 
 ### Installation and usage
 
